@@ -14,4 +14,5 @@
 ## Monthly fluctuations in sales, with January leading at 116K
 ## Payment method insights showing a preference for credit cards (34.74%)
 ## Sales breakdown across three major cities: Naypyitaw, Yangon, and Mandalay
-![image](https://github.com/user-attachments/assets/cddaa8e5-e126-4290-8831-bd5786572210)
+![image](https://github.com/user-attachments/assets/c4b663f9-ec87-46bc-8b00-07469046e3d1)
+
